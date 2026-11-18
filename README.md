@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/usagi-shake.gif" alt="Usagi" width="110" align="middle" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6a1&height=160&section=header&text=Louise%20Monungolh&fontSize=40&fontColor=ffffff&stroke=4caf50&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Major&descSize=18&descAlignY=62" alt="banner" width="600" align="middle" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6a1&height=160&section=header&text=Louise%20Chill%20Monungolh&fontSize=40&fontColor=ffffff&stroke=4caf50&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Major&descSize=18&descAlignY=62" alt="banner" width="600" align="middle" />
 <img src="assets/usagi-down.gif" alt="Usagi2" width="110" align="middle" />
 
 </div>
@@ -54,7 +54,7 @@ louise.sayHi();
 
 <div align="center">
 <h2>Find me!</h2>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/louise-monungolh">Louise Monungolh</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/louise-monungolh">Louise Chill Monungolh</a></li>
 <li>Email: louisemonungolh@gmail.com</li>
 </div>
 
