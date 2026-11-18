@@ -12,14 +12,14 @@
 
 ```ts
 const louise = {
-  pronouns: "[he/him]",
+  pronouns: "he/him",
   location: "Calgary, Alberta",
   education: {
     major: "Computer Science",
-    school: "[Mount Royal University]",
+    school: "Mount Royal University",
   },
-  currentlyWorkingOn: "[Finishing this degree]",,
-  moralSupport: ["Usagi", "Fuecoco"],
+  currentlyWorkingOn: "Finishing this degree",,
+  moralSupport: "Usagi", "Fuecoco",
   sayHi() {
     console.log("Hihihihi");
   },
