@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/usagi-shake.gif" alt="Usagi" width="110" align="middle" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6a1&height=160&section=header&text=Louise%20Monungolh&fontSize=40&fontColor=ffffff&stroke=4caf50&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Major&descSize=18&descAlignY=62" alt="banner" width="750" align="middle" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6a1&height=160&section=header&text=Louise%20Monungolh&fontSize=40&fontColor=ffffff&stroke=4caf50&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Major&descSize=18&descAlignY=62" alt="banner" width="600" align="middle" />
 <img src="assets/usagi-down.gif" alt="Usagi2" width="110" align="middle" />
 
 </div>
