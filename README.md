@@ -1,24 +1,12 @@
-
-<!-- ============================================================
-  HOW TO USE THIS FILE
-  1. Create a public repo named EXACTLY your username: lewzey
-  2. Upload README.md AND the "assets" folder to that repo
-     (the images in assets/ are the ones you sent).
-  3. Replace the remaining [PLACEHOLDERS] below.
-============================================================ -->
+<div align="center">
 
 <div align="center">
 
-<!-- Optional waving banner (third-party service, delete if you don't want it) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello%20there!&fontSize=40&fontAlignY=40" alt="banner" />
+<img src="assets/usagi.gif" alt="Usagi" width="110" align="middle" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a8e6a1&height=160&section=header&text=Louise%20Monungolh&fontSize=40&fontColor=ffffff&stroke=4caf50&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20Major&descSize=18&descAlignY=62" alt="banner" width="750" align="middle" />
+<img src="assets/fuecoco.png" alt="Fuecoco" width="110" align="middle" />
 
-# Louise Monungolh
-
-**Computer Science major**
-
-<img src="assets/usagi.png" alt="Usagi" width="130" />
-&nbsp;&nbsp;&nbsp;
-<img src="assets/fuecoco.png" alt="Fuecoco" width="130" />
+</div>
 
 <sub>*(Usagi and Fuecoco are here for moral support)*</sub>
 
@@ -36,22 +24,24 @@ const louise = {
     school: "[Mount Royal University]",
   },
   currentlyWorkingOn: "[Finishing this degree]",,
-  funFact: "[I'm a leftie who can also wiggle his ears!]",
   moralSupport: ["Usagi", "Fuecoco"],
+  sayHi() {
+    console.log("Hihihihi");
+  },
 };
 
-louise.sayHi(); // thanks for stopping by!
+louise.sayHi(); 
 ```
 
 ## Tech Stack
 
 <!-- Add or remove badges to match what you actually use -->
 
+![Python](https://img.shields.io/badge/Python-ffb3a7?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff9ecb?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-ffd166?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-a0e7e5?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-b4a7ff?style=for-the-badge&logo=git&logoColor=white)
-![[YOUR TOOL]](https://img.shields.io/badge/[YOUR_TOOL]-ffb3a7?style=for-the-badge)
 
 ---
 
@@ -77,7 +67,7 @@ louise.sayHi(); // thanks for stopping by!
 
 <img src="assets/usagi-walk.png" alt="Usagi walking" width="90" />
 
-*Thanks for stopping by! 
+*Thanks for stopping by!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 
